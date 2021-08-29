@@ -1,0 +1,9 @@
+{
+	"name": "dede-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67beb56d-e9d9-4209-a6f6-dc62fa1d85d5",
+		"tenantId": "d6df4901-00f6-4ee7-a904-63dbc1b8387f"
+	}
+}
